@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rizukurizu
+- 👋 Hi, I’m Rizki Fadhilah
 - 👀 I’m interested in Photography and Videography
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning All Templates
+- 💞️ I’m looking for job
+- 📫 How to reach me ? Just Follow My Github Profile
 
 <!---
 rizukurizu/rizukurizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
