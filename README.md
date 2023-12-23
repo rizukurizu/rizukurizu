@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning All Templates
 - 💞️ I’m looking for job
 - 📫 How to reach me ? Just Follow My Github Profile
+- Latest Updates
 
 <!---
 rizukurizu/rizukurizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
