@@ -5,11 +5,14 @@
 
 ### 🌟 Welcome to my GitHub profile! 🌟
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 8px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔥 I’m Rizki Fadhilah, a passionate individual exploring new dimensions of personal growth and love 💖.
+  
 - 💡 I’m deeply interested in the art of building meaningful connections and self-love 🌱.
+  
 - 🧠 Currently on a journey to mastering self-compassion and personal development 🚀.
+  
 - 🏃‍♂️ I’m actively seeking **career opportunities** in the tech world to bring my creativity to life 💼.
 
 ---
@@ -24,7 +27,9 @@
 ### 🎯 Fun Facts About Me:
 
 - 💬 Always open to new conversations about life, love, and technology.
+  
 - 🌍 I'm a global citizen at heart, constantly learning about new cultures and languages.
+  
 - 🕶️ Fun Fact: I find joy in the simple things, like a good coffee ☕ and a deep conversation.
 
 ---
@@ -43,7 +48,9 @@
 ### 🌱 My Current Goals:
 
 - 🚀 Learning new skills and improving my self-discipline.
+  
 - 💞️ Building deeper connections and finding new job opportunities in tech.
+  
 - 🌟 Always striving to **improve myself** every day.
 
 ---
