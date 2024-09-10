@@ -1,11 +1,8 @@
 # Hi there, I'm Rizki Fadhilah! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/rizukurizu?style=social) 
-![Profile views](https://gpvc.arturio.dev/rizukurizu)
 
 ### 🌟 Welcome to my GitHub profile! 🌟
 
-<img align="right" alt="Coding" width="400" style="border-radius: 8px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔥 I’m Rizki Fadhilah, a passionate individual exploring new dimensions of personal growth and love 💖.
   
@@ -14,6 +11,15 @@
 - 🧠 Currently on a journey to mastering self-compassion and personal development 🚀.
   
 - 🏃‍♂️ I’m actively seeking **career opportunities** in the tech world to bring my creativity to life 💼.
+
+---
+
+## 📊 GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/rizukurizu?style=social) 
+<br/>
+![Rizki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=highcontrast)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=highcontrast)
 
 ---
 
