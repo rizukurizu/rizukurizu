@@ -15,8 +15,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/rizukurizu?style=social) 
-<br/>
+
 ![Rizki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=highcontrast)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=highcontrast)
