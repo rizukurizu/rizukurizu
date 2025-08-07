@@ -1,75 +1,52 @@
-# Hi there, I'm Rizki Fadhilah! 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/rizukurizu/Favicon-Area/refs/heads/main/Akiyama.Mio.full.3511806.gif" alt="Rizki Fadhilah's GitHub Banner">
+</p>
 
+<div align="center">
 
-### 🌟 Welcome to my GitHub profile! 🌟
+RIZKI FADHILAH
+// INFORMATICS ENGINEERING STUDENT //
+📍 Depok, Indonesia
+</div>
 
+<pre>
+<b>RIZKI.SYSTEM(INIT)</b>
+<b>==================</b>
+<b>STATUS:</b>      Informatics Engineering Student
+<b>MISSION:</b>     Mastering software development & problem-solving
+<b>MOTTO:</b>       "Above the sky, there is still another sky."
+</pre>
 
-- 🔥 I’m Rizki Fadhilah, a passionate individual exploring new dimensions of personal growth and love 💖.
-  
-- 💡 I’m deeply interested in the art of building meaningful connections and self-love 🌱.
-  
-- 🧠 Currently on a journey to mastering self-compassion and personal development 🚀.
-  
-- 🏃‍♂️ I’m actively seeking **career opportunities** in the tech world to bring my creativity to life 💼.
+>_ ABOUT_ME
+Hello! I'm Rizki, an Informatics Engineering student with a passion for continuous learning and problem-solving through code. I am currently honing my skills in software development and am enthusiastic about exploring the vast world of technology. Each line of code represents a new step in this exciting journey.
 
----
-
-## 📊 GitHub Stats
-
-![Rizki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=highcontrast)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=highcontrast)
-
----
-
-### 📬 Let's Connect!
-
-- Feel free to explore my repositories and projects! 
-- 📫 Reach out to me: **Follow my [GitHub Profile](https://github.com/rizukurizu)**, or drop a message here!
-
----
-
-### 🎯 Fun Facts About Me:
-
-- 💬 Always open to new conversations about life, love, and technology.
-  
-- 🌍 I'm a global citizen at heart, constantly learning about new cultures and languages.
-  
-- 🕶️ Fun Fact: I find joy in the simple things, like a good coffee ☕ and a deep conversation.
-
----
-
-### 🔧 Tools & Technologies:
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
----
-
-### 🌱 My Current Goals:
-
-- 🚀 Learning new skills and improving my self-discipline.
-  
-- 💞️ Building deeper connections and finding new job opportunities in tech.
-  
-- 🌟 Always striving to **improve myself** every day.
-
----
-
-<details>
-  <summary>✨ Curious to Know More About Me?</summary>
-  
-  I'm passionate about improving my coding skills, and I'm always open to learning something new every day. 
-  Currently, I'm focusing on balancing my technical skills with personal growth—because, after all, life is about balance! 😉
-
-</details>
-
----
+>_ TECH_CONSOLE
+Here are some of the technologies I am currently working with and learning:
 
 <p align="center">
-  💬 "Self-love is the greatest middle finger of all time" 😎
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/pascal-%23E32E32.svg?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
+</p>
+
+>_ GITHUB_STATS
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=gruvbox" alt="Rizki's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+
+>_ LETS_CONNECT
+I am open to connecting with fellow students, developers, and professionals. Let's connect, share ideas, or collaborate on a project. Feel free to follow my profile!
+
+<p align="center">
+<b> Follow my GitHub Profile </b>
+</p>
+
+<p align="center">
+<b>=========================================</b>
+<br>
+<b>SYSTEM_MESSAGE: READY_TO_CONNECT.EXE</b>
 </p>
