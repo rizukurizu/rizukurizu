@@ -17,10 +17,10 @@ RIZKI FADHILAH
 <b>MOTTO:</b>       "Above the sky, there is still another sky."
 </pre>
 
->_ ABOUT_ME
+>
 Hello! I'm Rizki, an Informatics Engineering student with a passion for continuous learning and problem-solving through code. I am currently honing my skills in software development and am enthusiastic about exploring the vast world of technology. Each line of code represents a new step in this exciting journey.
 
->_ TECH_CONSOLE
+>
 Here are some of the technologies I am currently working with and learning:
 
 <p align="center">
@@ -32,13 +32,13 @@ Here are some of the technologies I am currently working with and learning:
 <img src="https://img.shields.io/badge/pascal-%23E32E32.svg?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
 </p>
 
->_ GITHUB_STATS
+>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=gruvbox" alt="Rizki's GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
->_ LETS_CONNECT
+>
 I am open to connecting with fellow students, developers, and professionals. Let's connect, share ideas, or collaborate on a project. Feel free to follow my profile!
 
 <p align="center">
