@@ -1,52 +1,56 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rizukurizu/Favicon-Area/refs/heads/main/Akiyama.Mio.full.3511806.gif" alt="Rizki Fadhilah's GitHub Banner">
+  <img src="https://raw.githubusercontent.com/rizukurizu/Favicon-Area/refs/heads/main/Akiyama.Mio.full.3511806.gif" alt="Rizki Fadhilah's GitHub Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <div align="center">
-
-RIZKI FADHILAH
-// INFORMATICS ENGINEERING STUDENT //
-📍 Depok, Indonesia
+  <h1>Hi there! 👋 Gue Rizki Fadhilah</h1>
+  <p><b>💻 Informatics Engineering Student | 📍 Depok, Indonesia</b></p>
+  <p><i>"Above the sky, there is still another sky."</i> ✨</p>
 </div>
 
-<pre>
-<b>RIZKI.SYSTEM(INIT)</b>
-<b>==================</b>
-<b>STATUS:</b>      Informatics Engineering Student
-<b>MISSION:</b>     Mastering software development & problem-solving
-<b>MOTTO:</b>       "Above the sky, there is still another sky."
-</pre>
+---
 
->
-Hello! I'm Rizki, an Informatics Engineering student with a passion for continuous learning and problem-solving through code. I am currently honing my skills in software development and am enthusiastic about exploring the vast world of technology. Each line of code represents a new step in this exciting journey.
+### 👨‍💻 Sedikit Tentang Gue
 
->
-Here are some of the technologies I am currently working with and learning:
+Halo! Kenalin gue Rizki, mahasiswa Teknik Informatika yang lagi seru-serunya ngulik dunia *software development*. Buat gue, tiap baris kode itu kayak teka-teki yang asyik buat dipecahin. 
+
+Gue percaya kalau belajar di dunia teknologi itu nggak ada ujungnya, makanya gue selalu *excited* buat nyobain hal-hal baru. Pokoknya *keep leveling up!* 🚀
+
+---
+
+### 🛠️ Tech Stack & "Mainan" Sehari-hari
+
+Ini beberapa bahasa dan teknologi yang lagi sering gue pake dan terus gue pelajarin:
 
 <p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/pascal-%23E32E32.svg?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/pascal-%23E32E32.svg?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
 </p>
 
->
+---
+
+### 📊 Pantauan Aktivitas (GitHub Stats)
+
+Biar keliatan progres ngodingnya, ini sedikit rangkuman aktivitas gue di GitHub:
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=gruvbox" alt="Rizki's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizukurizu&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&title_color=ebdbb2&text_color=ebdbb2" alt="Rizki's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizukurizu&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=ebdbb2&text_color=ebdbb2" alt="Top Languages" width="48%" />
 </p>
 
->
-I am open to connecting with fellow students, developers, and professionals. Let's connect, share ideas, or collaborate on a project. Feel free to follow my profile!
+---
+
+### 🤝 Let's Connect!
+
+Gue selalu *open* buat nambah relasi sama temen-temen mahasiswa, *developer*, atau siapa aja yang suka *tech*. Kalau mau ngajak diskusi, kolaborasi *project* bareng, atau sekadar *networking*, gas aja! 
+
+Jangan lupa *follow* profil gue ya, *let's build something awesome together!* ☕
 
 <p align="center">
-<b> Follow my GitHub Profile </b>
-</p>
-
-<p align="center">
-<b>=========================================</b>
-<br>
-<b>SYSTEM_MESSAGE: READY_TO_CONNECT.EXE</b>
+  <br>
+  <b>[ SYSTEM: READY_TO_CONNECT_AND_CODE ]</b>
 </p>
